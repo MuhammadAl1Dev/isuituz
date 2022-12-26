@@ -1,0 +1,8 @@
+@media only screen and (max-width: 426px){
+    #from_cd{
+        padding: 0px 20px !important;
+    }
+    #from_cd input{
+        padding: 10px;
+    }
+}

@@ -1,0 +1,27 @@
+#back_btn{
+    position: fixed;
+    top: 80px;
+    left: 20px;
+    padding: 15px;
+    border-radius: 50%;
+    border: 1px solid #86754E;
+    transition: all 0.5s;
+    color: #86754E;
+    font-size: 20px;
+    font-weight: 400;
+    z-index: 999;
+}
+#back_btn:hover{
+    background: #86754E;
+    color: #fff;    
+}
+@media only screen and (max-width: 426px){
+    #back_btn{
+        top: 10px;
+        left: 10px;
+        padding: 12px;
+    }
+    #img_category{
+        width: 350px !important;
+    }
+}

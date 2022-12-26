@@ -1,0 +1,7 @@
+#cart{
+    font-size: 35px;
+    cursor: pointer;
+}
+#cart:hover{
+    color: #86754E;
+}
